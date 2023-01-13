@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/lucianapouvreau">
-  <img widht="40%" src="https://github-readme-stats.vercel.app/api?username=lucianapouvreau&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img widht="40%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucianapouvreau&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
   
 ### Langages
