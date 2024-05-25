@@ -1,8 +1,7 @@
 ### Salut! 😊 Bienvenue à mon profil GitHub 👋
 
 
-- 🔭 En Reconversion Professionnelle
-- 📖 Spécialisation en React.JS
+- Développeuse fullstack
 
 <div align="center">
   <a href="https://github.com/lucianapouvreau">
